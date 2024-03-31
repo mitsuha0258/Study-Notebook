@@ -1,0 +1,10 @@
+site_name: Mitsuhaの学习笔记
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: green
+    accent: blue
+     # Palette toggle for light mode
+    
+  
